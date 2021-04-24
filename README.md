@@ -13,5 +13,5 @@ Welcome to my repository for the `NU FinTech Bootcamp`!
 **This text will be in bold**
 
 ``` python
-print("Welcome to FinTech!"
+print("Welcome to FinTech!")
 ```
