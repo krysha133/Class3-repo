@@ -1,1 +1,2 @@
 # Class3-repo
+Hi! My name is Kristupas Aleknavicius, my bakground is in economics and I am a recent graduate from the University of Illinois- at Urbana Champaign. My career goals include innovating in the world of fintech, applying my newly learned skills to identify and solve real life financial problems. I chose FinTech as I observed it to be the newest industry with the most opportunities. 
